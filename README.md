@@ -1,7 +1,5 @@
 # flutter_module_to_react_native
 - create react app and react module
-<hr>
-<br/>
 <br/>
 <br/>
 <br/>
